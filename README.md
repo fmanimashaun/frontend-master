@@ -13,6 +13,7 @@ To Document my learning from Frontend Master
 ## Practicing Resources
 * [Flexbox froggy game](https://flexboxfroggy.com/)
 * [master CSS grid layout](https://gridcritters.com/)
+* [Flexbox Zombie](https://mastery.games/post/flexboxzombies2/)
 
 
 ## DIfferent input tags in HTML
