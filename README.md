@@ -6,6 +6,8 @@ To Document my learning from Frontend Master
 *  [Pseudo-element](https://css-tricks.com/almanac/selectors/a/after-and-before/)
 *  [Guide to flex](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 *  [Guide to grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+*  [Guide to  Responsive Images in HTML](https://css-tricks.com/a-guide-to-the-responsive-images-syntax-in-html/)
+*  [Guide to dark mode](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/)
 ## DIfferent input tags in HTML
  * ```<input />``` You can use this with trailing slash (/) or without it```<input>```
  * ```<input type="color" />``` To create a color picker input
