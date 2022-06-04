@@ -3,6 +3,7 @@ To Document my learning from Frontend Master
 
 ## Resources 
 *  [Pseudo-classes](https://css-tricks.com/pseudo-class-selectors/)
+*  [Pseudo-element](https://css-tricks.com/almanac/selectors/a/after-and-before/)
 ## DIfferent input tags in HTML
  * ```<input />``` You can use this with trailing slash (/) or without it```<input>```
  * ```<input type="color" />``` To create a color picker input
