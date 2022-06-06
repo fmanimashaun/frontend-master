@@ -68,6 +68,7 @@
 
 .row .pad:last-child {
     background-color: #DF974C;
+    color: white
 }
 
 .row .pad:last-child:hover {
