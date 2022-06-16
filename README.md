@@ -9,6 +9,8 @@ To Document my learning from Frontend Master
 *  [Guide to  Responsive Images in HTML](https://css-tricks.com/a-guide-to-the-responsive-images-syntax-in-html/)
 *  [Guide to dark mode](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/)
 *  [Typography](https://drive.google.com/drive/u/0/folders/1p-nZVXjoWnAMT2mqsJ6090OH8WGQiAvQ?sort=13&direction=a)
+*  [Adobe Color](https://color.adobe.com/explore)
+*  [Fontpair](https://www.fontpair.co/)
 
 ## Practicing Resources
 * [Flexbox froggy game](https://flexboxfroggy.com/)
