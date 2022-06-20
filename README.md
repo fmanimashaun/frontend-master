@@ -18,6 +18,7 @@ To Document my learning from Frontend Master
 * [Flexbox froggy game](https://flexboxfroggy.com/)
 * [master CSS grid layout](https://gridcritters.com/)
 * [Flexbox Zombie](https://mastery.games/post/flexboxzombies2/)
+* [Concept to learn before react](https://www.freecodecamp.org/news/top-javascript-concepts-to-know-before-learning-react/)
 
 
 ## DIfferent input tags in HTML
