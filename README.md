@@ -14,6 +14,7 @@ To Document my learning from Frontend Master
 *  [Web Template Idea](https://elements.envato.com/)
 *  [Open source contribution](https://www.firsttimersonly.com/)
 *  [Logo guide](https://design-style-guide.freecodecamp.org/)
+*  [UI Pattern](https://ui-patterns.com/)
 
 ## Practicing Resources
 * [Flexbox froggy game](https://flexboxfroggy.com/)
