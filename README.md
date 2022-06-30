@@ -28,10 +28,10 @@ To Document my learning from Frontend Master
  * ```<input />``` You can use this with trailing slash (/) or without it```<input>```
  * ```<input type="color" />``` To create a color picker input
  * ```<input type="file" />``` To create a File upload  input
-  ```<input type="number" />``` To Set number input
-  ```<input type="datetime-local" />``` To create a date selction input
-  ```<input type="radio" />```  A radio buttion input
-  ```<input type="checkbox" />``` A checkbox input
+ * ```<input type="number" />``` To Set number input
+ * ```<input type="datetime-local" />``` To create a date selction input
+ * ```<input type="radio" />```  A radio buttion input
+ * ```<input type="checkbox" />``` A checkbox input
   
  ## Sample code for a drop down selection
  ```
@@ -49,14 +49,14 @@ To Document my learning from Frontend Master
  
 ## CSS Grid! Let’s review:
 
-* grid-template-areas specifies grid named grid areas
-grid layouts are two-dimensional: they have a row, or inline, axis and a column, or block, axis.
-justify-items specifies how individual elements should spread across the row axis
-justify-content specifies how groups of elements should spread across the row axis
-justify-self specifies how a single element should position itself with respect to the row axis
-align-items specifies how individual elements should spread across the column axis
-align-content specifies how groups of elements should spread across the column axis
-align-self specifies how a single element should position itself with respect to the column axis
-grid-auto-rows specifies the height of rows added implicitly to the grid
-grid-auto-columns specifies the width of columns added implicitly to the grid
-grid-auto-flow specifies in which direction implicit elements should be created
+* `grid-template-areas` specifies grid named grid areas
+* `grid layouts` are two-dimensional: they have a row, or inline, axis and a column, or block, axis.
+* `justify-items` specifies how individual elements should spread across the row axis
+* `justify-content` specifies how groups of elements should spread across the row axis
+* `justify-self` specifies how a single element should position itself with respect to the row axis
+* `align-items` specifies how individual elements should spread across the column axis
+* `align-content` specifies how groups of elements should spread across the column axis
+* `align-self` specifies how a single element should position itself with respect to the column axis
+* `grid-auto-rows` specifies the height of rows added implicitly to the grid
+* `grid-auto-columns` specifies the width of columns added implicitly to the grid
+* `grid-auto-flow` specifies in which direction implicit elements should be created
